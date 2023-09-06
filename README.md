@@ -1,5 +1,7 @@
 # MySite
 
+Link: https://cherry247.github.io/MySite/
+
 ## Deployment
 * Clone this github repo :
  
